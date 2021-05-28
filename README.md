@@ -1,7 +1,7 @@
-# {package}
+# fourierpy
 
-+ **Documentation** [http://scuervo91.github.io/{package}](http://scuervo91.github.io/{package})
-+ **Sorce Code** [https://github.com/scuervo91/{package}](https://github.com/scuervo91/{package})
++ **Documentation** [http://scuervo91.github.io/fourierpy](http://scuervo91.github.io/fourierpy)
++ **Sorce Code** [https://github.com/scuervo91/fourierpy](https://github.com/scuervo91/fourierpy)
 
 {package description}
 
@@ -15,7 +15,7 @@
 
 
 ```console
-$ pip install {package}
+$ pip install fourierpy
 
 ---> 100%
 ```

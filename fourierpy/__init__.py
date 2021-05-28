@@ -1,0 +1,1 @@
+from .fourier_series import FourierModel

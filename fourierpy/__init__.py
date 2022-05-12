@@ -1,1 +1,1 @@
-from .fourier_series import FourierModel
+from .fourier_series import FourierTrig, FourierExp
